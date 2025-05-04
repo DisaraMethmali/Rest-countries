@@ -170,7 +170,7 @@ const HomePage = () => {
         <Container maxWidth="lg">
           <Box sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
             <Typography variant="h4" fontWeight={700} sx={{ color: "#001f3f", fontFamily: "Poppins, sans-serif" }}>
-            CountryTap - Countries Explorer
+            CountryTap 
             </Typography>
             <Typography
               variant="subtitle1"
